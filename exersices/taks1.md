@@ -1,11 +1,9 @@
 # Introduction to Data Type And Operators.
 
-  + Given this output,
-        ```javascript
-
-        One,
-        Tow,
-        Three
+  + Given this output  
+        One,  
+        Tow,  
+        Three  
 using a single string, show the println( ) statement that produced it.
 +   Explain the difference between the prefix and postfix forms of the increment operator.
 +   Show how a short-circuit AND can be used to prevent a divide-by-zero error.
