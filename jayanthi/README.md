@@ -2,4 +2,4 @@
 
 
 
-+ [BlockScope example](./jayanthi/src/main/java/com/yash/exercise/BlockScope.java)
++ [BlockScope example](./src/main/java/com/yash/exercise/BlockScope.java)
